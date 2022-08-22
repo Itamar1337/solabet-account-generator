@@ -6,7 +6,6 @@ You'll need [Git](https://git-scm.com) to start off!
 ```bash
 # Clone this repository
 $ git clone https://github.com/TheBlackCookie/solabet-account-generator.git
-$ run run.bat
 $ python main.py
 ```
 
