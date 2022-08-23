@@ -15,7 +15,7 @@ def create():
     email1 = "".join(random.choice(chars) for x in range(8))
     email = (email1 + "@gmail.com")
     json_data = {
-        'email': (email)+ ("@gmail.com"),
+        'email': (email),
         'name': email1,
         'password': 'bandana!1',
         }
